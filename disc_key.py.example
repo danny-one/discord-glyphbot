@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov 16 15:13:10 2021
+
+@author: Danny
+"""
+
+## SECRETS ##
+
+
+bot_token = "INSERT YOUR DISCORD BOT TOKEN"
