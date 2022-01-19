@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 17 12:25:27 2021
 
-@author: Danny
+@author: danny-one
 """
 
 import homoglyphs_fork as hg
